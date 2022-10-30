@@ -7,4 +7,4 @@ Ryan Saweczko
 Timothy Liu  
 Emily Brereton  
 Vincent Hung  
-Leo Palerma  
+Leo Palerma  :)
