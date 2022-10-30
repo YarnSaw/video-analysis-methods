@@ -4,7 +4,7 @@ Comparing different video analysis methods to test accuracy and speed
 
 ### Collaborators
 Ryan Saweczko  
-Timothy Eiu  
+Timothy Liu  
 Emily Brereton  
 Vincent Hung  
-Leo Palerma  
+Leo Palerma  :)
