@@ -1,0 +1,6898 @@
+[
+ {
+  "id": "166924",
+  "label": "pushing iphone adapter from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "iphone adapter"
+  ]
+ },
+ {
+  "id": "160261",
+  "label": "pushing orange bowl from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "orange bowl"
+  ]
+ },
+ {
+  "id": "96361",
+  "label": "putting a glass on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a glass"
+  ]
+ },
+ {
+  "id": "89496",
+  "label": "uncovering spoon",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "spoon"
+  ]
+ },
+ {
+  "id": "156912",
+  "label": "putting small sharpener on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "small sharpener"
+  ]
+ },
+ {
+  "id": "38954",
+  "label": "pushing a charger from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a charger"
+  ]
+ },
+ {
+  "id": "43799",
+  "label": "uncovering jar",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "jar"
+  ]
+ },
+ {
+  "id": "193244",
+  "label": "uncovering eyeshadow",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "eyeshadow"
+  ]
+ },
+ {
+  "id": "43138",
+  "label": "pushing blanket from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "blanket"
+  ]
+ },
+ {
+  "id": "168029",
+  "label": "pushing book from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "196208",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "43009",
+  "label": "uncovering blinds",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "blinds"
+  ]
+ },
+ {
+  "id": "33659",
+  "label": "uncovering a pear",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a pear"
+  ]
+ },
+ {
+  "id": "132447",
+  "label": "uncovering coin",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "coin"
+  ]
+ },
+ {
+  "id": "190480",
+  "label": "putting blue pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "blue pen"
+  ]
+ },
+ {
+  "id": "9152",
+  "label": "uncovering pencil",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pencil"
+  ]
+ },
+ {
+  "id": "207402",
+  "label": "uncovering book",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "90648",
+  "label": "putting paperweight on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "paperweight"
+  ]
+ },
+ {
+  "id": "180341",
+  "label": "pushing bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "20135",
+  "label": "pushing spring from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "spring"
+  ]
+ },
+ {
+  "id": "186093",
+  "label": "putting white deodorant on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "white deodorant"
+  ]
+ },
+ {
+  "id": "63981",
+  "label": "uncovering a plant",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a plant"
+  ]
+ },
+ {
+  "id": "108375",
+  "label": "pushing jar from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "jar"
+  ]
+ },
+ {
+  "id": "102538",
+  "label": "uncovering hot pot",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "hot pot"
+  ]
+ },
+ {
+  "id": "1113",
+  "label": "pushing box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "103890",
+  "label": "pushing brush from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "brush"
+  ]
+ },
+ {
+  "id": "167002",
+  "label": "putting shoe polish liquid container on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "shoe polish liquid container"
+  ]
+ },
+ {
+  "id": "219673",
+  "label": "pushing punching machine from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "punching machine"
+  ]
+ },
+ {
+  "id": "207043",
+  "label": "uncovering a mouse",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "101453",
+  "label": "putting a cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a cup"
+  ]
+ },
+ {
+  "id": "114209",
+  "label": "putting jar on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "jar"
+  ]
+ },
+ {
+  "id": "127051",
+  "label": "putting black disc case on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "black disc case"
+  ]
+ },
+ {
+  "id": "121093",
+  "label": "putting a doll on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a doll"
+  ]
+ },
+ {
+  "id": "186299",
+  "label": "uncovering pencils",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pencils"
+  ]
+ },
+ {
+  "id": "33897",
+  "label": "pushing black umbrella from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "black umbrella"
+  ]
+ },
+ {
+  "id": "108282",
+  "label": "putting gel on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "gel"
+  ]
+ },
+ {
+  "id": "143429",
+  "label": "putting a cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a cup"
+  ]
+ },
+ {
+  "id": "139224",
+  "label": "uncovering toy car",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toy car"
+  ]
+ },
+ {
+  "id": "209001",
+  "label": "pushing package from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "package"
+  ]
+ },
+ {
+  "id": "171899",
+  "label": "pushing candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "188180",
+  "label": "uncovering stone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "stone"
+  ]
+ },
+ {
+  "id": "143538",
+  "label": "putting a rock on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a rock"
+  ]
+ },
+ {
+  "id": "130528",
+  "label": "uncovering toy figure",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toy figure"
+  ]
+ },
+ {
+  "id": "204764",
+  "label": "pushing phone from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "129946",
+  "label": "pushing shoe from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "shoe"
+  ]
+ },
+ {
+  "id": "1870",
+  "label": "uncovering tweezers",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tweezers"
+  ]
+ },
+ {
+  "id": "209519",
+  "label": "uncovering a box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a box"
+  ]
+ },
+ {
+  "id": "38646",
+  "label": "pushing a shaving razor from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a shaving razor"
+  ]
+ },
+ {
+  "id": "117857",
+  "label": "putting hand on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hand"
+  ]
+ },
+ {
+  "id": "43412",
+  "label": "putting toffee container on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "toffee container"
+  ]
+ },
+ {
+  "id": "16259",
+  "label": "pushing a chappal from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a chappal"
+  ]
+ },
+ {
+  "id": "178590",
+  "label": "uncovering toothpaste",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toothpaste"
+  ]
+ },
+ {
+  "id": "213068",
+  "label": "pushing black pouch bag from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "black pouch bag"
+  ]
+ },
+ {
+  "id": "179237",
+  "label": "uncovering violet colour pocket knife",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "violet colour pocket knife"
+  ]
+ },
+ {
+  "id": "187495",
+  "label": "putting headphones on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "headphones"
+  ]
+ },
+ {
+  "id": "36800",
+  "label": "pushing yellow clay box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "yellow clay box"
+  ]
+ },
+ {
+  "id": "76365",
+  "label": "uncovering magnifying glass",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "magnifying glass"
+  ]
+ },
+ {
+  "id": "19469",
+  "label": "putting cell phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cell phone"
+  ]
+ },
+ {
+  "id": "143941",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "169558",
+  "label": "putting red colour spoon on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "red colour spoon"
+  ]
+ },
+ {
+  "id": "11978",
+  "label": "pushing empty treat bar wrap from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "empty treat bar wrap"
+  ]
+ },
+ {
+  "id": "172317",
+  "label": "putting mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "82109",
+  "label": "pushing red candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "red candle"
+  ]
+ },
+ {
+  "id": "216476",
+  "label": "uncovering headphones",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "headphones"
+  ]
+ },
+ {
+  "id": "178651",
+  "label": "uncovering headphones",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "headphones"
+  ]
+ },
+ {
+  "id": "120445",
+  "label": "uncovering a tomato",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a tomato"
+  ]
+ },
+ {
+  "id": "110673",
+  "label": "pushing white hand gel from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "white hand gel"
+  ]
+ },
+ {
+  "id": "72982",
+  "label": "pushing chocolate from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "chocolate"
+  ]
+ },
+ {
+  "id": "43861",
+  "label": "uncovering cell phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cell phone"
+  ]
+ },
+ {
+  "id": "189919",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "147490",
+  "label": "uncovering bear",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bear"
+  ]
+ },
+ {
+  "id": "195417",
+  "label": "putting a clip on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a clip"
+  ]
+ },
+ {
+  "id": "165849",
+  "label": "uncovering a container",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a container"
+  ]
+ },
+ {
+  "id": "43528",
+  "label": "uncovering badge",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "badge"
+  ]
+ },
+ {
+  "id": "17202",
+  "label": "putting ipad on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "ipad"
+  ]
+ },
+ {
+  "id": "170404",
+  "label": "uncovering box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "136410",
+  "label": "putting a cup of liquid on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a cup of liquid"
+  ]
+ },
+ {
+  "id": "18436",
+  "label": "uncovering vitamin",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "vitamin"
+  ]
+ },
+ {
+  "id": "138396",
+  "label": "putting white envelope on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "white envelope"
+  ]
+ },
+ {
+  "id": "47220",
+  "label": "uncovering a deodorant",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a deodorant"
+  ]
+ },
+ {
+  "id": "126890",
+  "label": "uncovering paper clip",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "paper clip"
+  ]
+ },
+ {
+  "id": "56679",
+  "label": "putting oil bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "oil bottle"
+  ]
+ },
+ {
+  "id": "40279",
+  "label": "putting thermal cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "thermal cup"
+  ]
+ },
+ {
+  "id": "196021",
+  "label": "pushing pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "10327",
+  "label": "uncovering box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "170391",
+  "label": "putting a nail on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a nail"
+  ]
+ },
+ {
+  "id": "162789",
+  "label": "uncovering a calculator",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a calculator"
+  ]
+ },
+ {
+  "id": "135795",
+  "label": "putting digital clock on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "digital clock"
+  ]
+ },
+ {
+  "id": "159894",
+  "label": "putting a circuit tester on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a circuit tester"
+  ]
+ },
+ {
+  "id": "28065",
+  "label": "putting mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mouse"
+  ]
+ },
+ {
+  "id": "184956",
+  "label": "putting a toy on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a toy"
+  ]
+ },
+ {
+  "id": "70585",
+  "label": "pushing a stapler from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a stapler"
+  ]
+ },
+ {
+  "id": "217641",
+  "label": "pushing mouse from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "mouse"
+  ]
+ },
+ {
+  "id": "9567",
+  "label": "uncovering remote",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "remote"
+  ]
+ },
+ {
+  "id": "147159",
+  "label": "uncovering pc mouse",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pc mouse"
+  ]
+ },
+ {
+  "id": "75056",
+  "label": "putting cup and saucer on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cup and saucer"
+  ]
+ },
+ {
+  "id": "192980",
+  "label": "uncovering red spoon",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "red spoon"
+  ]
+ },
+ {
+  "id": "32472",
+  "label": "putting phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "165772",
+  "label": "uncovering a watch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a watch"
+  ]
+ },
+ {
+  "id": "30104",
+  "label": "pushing wallet from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "wallet"
+  ]
+ },
+ {
+  "id": "213409",
+  "label": "putting a bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bottle"
+  ]
+ },
+ {
+  "id": "192986",
+  "label": "uncovering scissors",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "67433",
+  "label": "uncovering remote",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "remote"
+  ]
+ },
+ {
+  "id": "57548",
+  "label": "pushing a disposable saucer from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a disposable saucer"
+  ]
+ },
+ {
+  "id": "76120",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "158538",
+  "label": "pushing can from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "can"
+  ]
+ },
+ {
+  "id": "12443",
+  "label": "putting the shampoo on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "the shampoo"
+  ]
+ },
+ {
+  "id": "117597",
+  "label": "pushing a deodorant from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a deodorant"
+  ]
+ },
+ {
+  "id": "200719",
+  "label": "pushing a cup from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a cup"
+  ]
+ },
+ {
+  "id": "24799",
+  "label": "uncovering mug",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "64662",
+  "label": "putting telephone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "telephone"
+  ]
+ },
+ {
+  "id": "60193",
+  "label": "putting a pencil on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pencil"
+  ]
+ },
+ {
+  "id": "164398",
+  "label": "pushing book from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "27331",
+  "label": "pushing red booklet from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "red booklet"
+  ]
+ },
+ {
+  "id": "207108",
+  "label": "uncovering binder",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "binder"
+  ]
+ },
+ {
+  "id": "207785",
+  "label": "putting glasses on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "glasses"
+  ]
+ },
+ {
+  "id": "128939",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "168733",
+  "label": "uncovering something",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "98309",
+  "label": "putting book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "158759",
+  "label": "pushing a mouse from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "767",
+  "label": "uncovering glass jar",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "glass jar"
+  ]
+ },
+ {
+  "id": "2185",
+  "label": "putting pencil on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pencil"
+  ]
+ },
+ {
+  "id": "173425",
+  "label": "uncovering a phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a phone"
+  ]
+ },
+ {
+  "id": "159635",
+  "label": "uncovering mobile phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mobile phone"
+  ]
+ },
+ {
+  "id": "67692",
+  "label": "putting magnet on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "magnet"
+  ]
+ },
+ {
+  "id": "34882",
+  "label": "uncovering a robot",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a robot"
+  ]
+ },
+ {
+  "id": "6392",
+  "label": "putting cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "30116",
+  "label": "uncovering mouse",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mouse"
+  ]
+ },
+ {
+  "id": "35446",
+  "label": "uncovering rice jar",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "rice jar"
+  ]
+ },
+ {
+  "id": "68496",
+  "label": "uncovering a stuffed bunny",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a stuffed bunny"
+  ]
+ },
+ {
+  "id": "64817",
+  "label": "uncovering a toy",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a toy"
+  ]
+ },
+ {
+  "id": "134862",
+  "label": "uncovering a phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a phone"
+  ]
+ },
+ {
+  "id": "130607",
+  "label": "uncovering uncovering microphone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "uncovering microphone"
+  ]
+ },
+ {
+  "id": "168863",
+  "label": "uncovering a watch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a watch"
+  ]
+ },
+ {
+  "id": "116114",
+  "label": "uncovering tomato",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tomato"
+  ]
+ },
+ {
+  "id": "187712",
+  "label": "uncovering muffins",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "muffins"
+  ]
+ },
+ {
+  "id": "116741",
+  "label": "pushing scotch tape from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "scotch tape"
+  ]
+ },
+ {
+  "id": "205593",
+  "label": "uncovering cup",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "99126",
+  "label": "pushing purple microfiber from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "purple microfiber"
+  ]
+ },
+ {
+  "id": "175786",
+  "label": "uncovering a rose",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a rose"
+  ]
+ },
+ {
+  "id": "176624",
+  "label": "uncovering a chair",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a chair"
+  ]
+ },
+ {
+  "id": "38391",
+  "label": "putting lipstisck on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "lipstisck"
+  ]
+ },
+ {
+  "id": "101071",
+  "label": "pushing can from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "can"
+  ]
+ },
+ {
+  "id": "205753",
+  "label": "uncovering glue stick",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "glue stick"
+  ]
+ },
+ {
+  "id": "27396",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "157604",
+  "label": "pushing cup from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "47364",
+  "label": "putting microscope on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "microscope"
+  ]
+ },
+ {
+  "id": "48874",
+  "label": "uncovering a doll",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a doll"
+  ]
+ },
+ {
+  "id": "90789",
+  "label": "pushing remote controller from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "remote controller"
+  ]
+ },
+ {
+  "id": "166829",
+  "label": "uncovering bracelet",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bracelet"
+  ]
+ },
+ {
+  "id": "137371",
+  "label": "uncovering a clothespin",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a clothespin"
+  ]
+ },
+ {
+  "id": "25680",
+  "label": "pushing a mouse from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "158672",
+  "label": "uncovering mug",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "197927",
+  "label": "uncovering marker",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "marker"
+  ]
+ },
+ {
+  "id": "58014",
+  "label": "uncovering nail polish remover",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "nail polish remover"
+  ]
+ },
+ {
+  "id": "12570",
+  "label": "pushing mini book from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "mini book"
+  ]
+ },
+ {
+  "id": "135241",
+  "label": "pushing white board clip from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "white board clip"
+  ]
+ },
+ {
+  "id": "197319",
+  "label": "uncovering scissors",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "119993",
+  "label": "putting a bird on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bird"
+  ]
+ },
+ {
+  "id": "138899",
+  "label": "uncovering compass",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "compass"
+  ]
+ },
+ {
+  "id": "194955",
+  "label": "pushing toy car from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "toy car"
+  ]
+ },
+ {
+  "id": "91376",
+  "label": "putting wired headset on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "wired headset"
+  ]
+ },
+ {
+  "id": "78579",
+  "label": "pushing binder clip from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "binder clip"
+  ]
+ },
+ {
+  "id": "144523",
+  "label": "pushing bucket from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bucket"
+  ]
+ },
+ {
+  "id": "108294",
+  "label": "uncovering can",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "can"
+  ]
+ },
+ {
+  "id": "156790",
+  "label": "uncovering pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "83778",
+  "label": "uncovering tv remote",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tv remote"
+  ]
+ },
+ {
+  "id": "65200",
+  "label": "putting a flashlight on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a flashlight"
+  ]
+ },
+ {
+  "id": "35431",
+  "label": "putting shoe on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "shoe"
+  ]
+ },
+ {
+  "id": "3619",
+  "label": "pushing black lipstick from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "black lipstick"
+  ]
+ },
+ {
+  "id": "209016",
+  "label": "uncovering phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "14056",
+  "label": "pushing calculator from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "calculator"
+  ]
+ },
+ {
+  "id": "205710",
+  "label": "putting plant on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "plant"
+  ]
+ },
+ {
+  "id": "6010",
+  "label": "uncovering cow",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cow"
+  ]
+ },
+ {
+  "id": "129246",
+  "label": "uncovering tool",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tool"
+  ]
+ },
+ {
+  "id": "212161",
+  "label": "uncovering sketch book",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "sketch book"
+  ]
+ },
+ {
+  "id": "27479",
+  "label": "uncovering whiteboard marker",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "whiteboard marker"
+  ]
+ },
+ {
+  "id": "199119",
+  "label": "putting beer bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "beer bottle"
+  ]
+ },
+ {
+  "id": "17933",
+  "label": "pushing white deodorant from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "white deodorant"
+  ]
+ },
+ {
+  "id": "12139",
+  "label": "uncovering toothbrushes",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toothbrushes"
+  ]
+ },
+ {
+  "id": "120355",
+  "label": "uncovering battery",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "battery"
+  ]
+ },
+ {
+  "id": "139070",
+  "label": "pushing scissors from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "51189",
+  "label": "pushing glue stick from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "glue stick"
+  ]
+ },
+ {
+  "id": "174333",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "175642",
+  "label": "uncovering spoon",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "spoon"
+  ]
+ },
+ {
+  "id": "153700",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "80820",
+  "label": "pushing soft tissue roll from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "soft tissue roll"
+  ]
+ },
+ {
+  "id": "205562",
+  "label": "uncovering cell phone charger",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cell phone charger"
+  ]
+ },
+ {
+  "id": "31780",
+  "label": "pushing bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "52271",
+  "label": "uncovering phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "94617",
+  "label": "pushing the drawer from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "the drawer"
+  ]
+ },
+ {
+  "id": "16887",
+  "label": "pushing bar soap from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bar soap"
+  ]
+ },
+ {
+  "id": "122584",
+  "label": "uncovering a cooking pan",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a cooking pan"
+  ]
+ },
+ {
+  "id": "214887",
+  "label": "pushing spice from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "spice"
+  ]
+ },
+ {
+  "id": "36819",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "187446",
+  "label": "pushing study table from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "study table"
+  ]
+ },
+ {
+  "id": "211057",
+  "label": "uncovering blue spoon",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "blue spoon"
+  ]
+ },
+ {
+  "id": "59378",
+  "label": "pushing action camera from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "action camera"
+  ]
+ },
+ {
+  "id": "34063",
+  "label": "pushing a chair from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a chair"
+  ]
+ },
+ {
+  "id": "75993",
+  "label": "putting green bowl on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "green bowl"
+  ]
+ },
+ {
+  "id": "213276",
+  "label": "putting empty treat bar wrap on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "empty treat bar wrap"
+  ]
+ },
+ {
+  "id": "23234",
+  "label": "uncovering purse",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "purse"
+  ]
+ },
+ {
+  "id": "15783",
+  "label": "pushing apple from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "apple"
+  ]
+ },
+ {
+  "id": "181516",
+  "label": "putting elephant statue on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "elephant statue"
+  ]
+ },
+ {
+  "id": "109650",
+  "label": "pushing metal box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "metal box"
+  ]
+ },
+ {
+  "id": "51260",
+  "label": "uncovering a coffee mug",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a coffee mug"
+  ]
+ },
+ {
+  "id": "54945",
+  "label": "pushing scissors from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "67512",
+  "label": "uncovering waterbottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "waterbottle"
+  ]
+ },
+ {
+  "id": "173148",
+  "label": "pushing something from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "92811",
+  "label": "uncovering box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "175751",
+  "label": "uncovering a can",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a can"
+  ]
+ },
+ {
+  "id": "205794",
+  "label": "putting dvd case on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "dvd case"
+  ]
+ },
+ {
+  "id": "91704",
+  "label": "putting perfume on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "perfume"
+  ]
+ },
+ {
+  "id": "50909",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "175088",
+  "label": "pushing a vase from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a vase"
+  ]
+ },
+ {
+  "id": "86804",
+  "label": "putting key on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "key"
+  ]
+ },
+ {
+  "id": "29810",
+  "label": "uncovering bed",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bed"
+  ]
+ },
+ {
+  "id": "212301",
+  "label": "pushing green hair comb from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "green hair comb"
+  ]
+ },
+ {
+  "id": "217590",
+  "label": "uncovering sunglasses",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "sunglasses"
+  ]
+ },
+ {
+  "id": "218702",
+  "label": "uncovering cellphone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cellphone"
+  ]
+ },
+ {
+  "id": "209000",
+  "label": "uncovering drumstick",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "drumstick"
+  ]
+ },
+ {
+  "id": "29610",
+  "label": "uncovering small gear wheel",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "small gear wheel"
+  ]
+ },
+ {
+  "id": "195395",
+  "label": "pushing pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "219735",
+  "label": "putting candies on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "candies"
+  ]
+ },
+ {
+  "id": "115281",
+  "label": "uncovering an apple",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "an apple"
+  ]
+ },
+ {
+  "id": "106796",
+  "label": "putting mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mouse"
+  ]
+ },
+ {
+  "id": "92452",
+  "label": "putting black umbrella on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "black umbrella"
+  ]
+ },
+ {
+  "id": "101982",
+  "label": "putting kaugummi-packung on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "kaugummi-packung"
+  ]
+ },
+ {
+  "id": "24199",
+  "label": "uncovering a pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "185612",
+  "label": "pushing hat from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "hat"
+  ]
+ },
+ {
+  "id": "31145",
+  "label": "putting screwdriver on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "screwdriver"
+  ]
+ },
+ {
+  "id": "39402",
+  "label": "uncovering a razor",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a razor"
+  ]
+ },
+ {
+  "id": "108609",
+  "label": "pushing coffee from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "coffee"
+  ]
+ },
+ {
+  "id": "100236",
+  "label": "pushing cable from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cable"
+  ]
+ },
+ {
+  "id": "211484",
+  "label": "putting water bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "water bottle"
+  ]
+ },
+ {
+  "id": "164385",
+  "label": "putting pink cologne on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pink cologne"
+  ]
+ },
+ {
+  "id": "85889",
+  "label": "pushing towel from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "towel"
+  ]
+ },
+ {
+  "id": "31181",
+  "label": "putting a book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a book"
+  ]
+ },
+ {
+  "id": "202867",
+  "label": "uncovering a cellphone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a cellphone"
+  ]
+ },
+ {
+  "id": "147099",
+  "label": "pushing toy car from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "toy car"
+  ]
+ },
+ {
+  "id": "157382",
+  "label": "uncovering plush doll",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "plush doll"
+  ]
+ },
+ {
+  "id": "41036",
+  "label": "uncovering brush",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "brush"
+  ]
+ },
+ {
+  "id": "188843",
+  "label": "pushing a marker from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a marker"
+  ]
+ },
+ {
+  "id": "218509",
+  "label": "uncovering a book",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a book"
+  ]
+ },
+ {
+  "id": "10338",
+  "label": "uncovering twizzer",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "twizzer"
+  ]
+ },
+ {
+  "id": "15130",
+  "label": "uncovering a plate",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a plate"
+  ]
+ },
+ {
+  "id": "99398",
+  "label": "pushing small sharpener from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "small sharpener"
+  ]
+ },
+ {
+  "id": "163049",
+  "label": "uncovering wallet",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "wallet"
+  ]
+ },
+ {
+  "id": "141828",
+  "label": "putting medicine on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "medicine"
+  ]
+ },
+ {
+  "id": "185264",
+  "label": "uncovering an empty water bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "an empty water bottle"
+  ]
+ },
+ {
+  "id": "103205",
+  "label": "pushing toy idol from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "toy idol"
+  ]
+ },
+ {
+  "id": "125034",
+  "label": "putting small freshmints on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "small freshmints"
+  ]
+ },
+ {
+  "id": "215853",
+  "label": "uncovering soda cap",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "soda cap"
+  ]
+ },
+ {
+  "id": "217360",
+  "label": "uncovering candies",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "candies"
+  ]
+ },
+ {
+  "id": "149170",
+  "label": "uncovering a head",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a head"
+  ]
+ },
+ {
+  "id": "158733",
+  "label": "putting mobile phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mobile phone"
+  ]
+ },
+ {
+  "id": "9153",
+  "label": "pushing bike light from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bike light"
+  ]
+ },
+ {
+  "id": "103071",
+  "label": "uncovering fish",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "fish"
+  ]
+ },
+ {
+  "id": "41263",
+  "label": "putting something on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "128205",
+  "label": "putting a smartphone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a smartphone"
+  ]
+ },
+ {
+  "id": "197559",
+  "label": "uncovering toy duck",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toy duck"
+  ]
+ },
+ {
+  "id": "14426",
+  "label": "putting a beer can on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a beer can"
+  ]
+ },
+ {
+  "id": "80510",
+  "label": "putting a toy on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a toy"
+  ]
+ },
+ {
+  "id": "189231",
+  "label": "putting vase on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "vase"
+  ]
+ },
+ {
+  "id": "38896",
+  "label": "uncovering usb cable",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "usb cable"
+  ]
+ },
+ {
+  "id": "129064",
+  "label": "putting hammer on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hammer"
+  ]
+ },
+ {
+  "id": "194341",
+  "label": "pushing pencil from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pencil"
+  ]
+ },
+ {
+  "id": "209537",
+  "label": "putting jar on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "jar"
+  ]
+ },
+ {
+  "id": "58916",
+  "label": "uncovering the tablet",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "the tablet"
+  ]
+ },
+ {
+  "id": "207802",
+  "label": "pushing green cup from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "green cup"
+  ]
+ },
+ {
+  "id": "152256",
+  "label": "pushing a bowl from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a bowl"
+  ]
+ },
+ {
+  "id": "9443",
+  "label": "putting pint glass on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pint glass"
+  ]
+ },
+ {
+  "id": "134419",
+  "label": "putting a calculator on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a calculator"
+  ]
+ },
+ {
+  "id": "83261",
+  "label": "pushing glasses from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "glasses"
+  ]
+ },
+ {
+  "id": "87247",
+  "label": "pushing shoe from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "shoe"
+  ]
+ },
+ {
+  "id": "120839",
+  "label": "uncovering an ipad",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "an ipad"
+  ]
+ },
+ {
+  "id": "178990",
+  "label": "putting box on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "206727",
+  "label": "putting can on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "can"
+  ]
+ },
+ {
+  "id": "28953",
+  "label": "putting tape on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tape"
+  ]
+ },
+ {
+  "id": "73670",
+  "label": "uncovering baby",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "baby"
+  ]
+ },
+ {
+  "id": "148819",
+  "label": "pushing candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "35652",
+  "label": "uncovering laptop",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "laptop"
+  ]
+ },
+ {
+  "id": "211145",
+  "label": "putting the book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "the book"
+  ]
+ },
+ {
+  "id": "154629",
+  "label": "uncovering something",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "40910",
+  "label": "putting keys on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "keys"
+  ]
+ },
+ {
+  "id": "32345",
+  "label": "pushing case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "case"
+  ]
+ },
+ {
+  "id": "175187",
+  "label": "uncovering fabric",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "fabric"
+  ]
+ },
+ {
+  "id": "62897",
+  "label": "putting a computer mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a computer mouse"
+  ]
+ },
+ {
+  "id": "218471",
+  "label": "putting black brush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "black brush"
+  ]
+ },
+ {
+  "id": "146962",
+  "label": "uncovering football",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "football"
+  ]
+ },
+ {
+  "id": "115389",
+  "label": "pushing wireless mouse from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "wireless mouse"
+  ]
+ },
+ {
+  "id": "200932",
+  "label": "pushing something from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "203418",
+  "label": "uncovering a jbl",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a jbl"
+  ]
+ },
+ {
+  "id": "109513",
+  "label": "uncovering dvd disk",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "dvd disk"
+  ]
+ },
+ {
+  "id": "62408",
+  "label": "putting book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "218945",
+  "label": "pushing make up from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "make up"
+  ]
+ },
+ {
+  "id": "26625",
+  "label": "putting remote control on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "remote control"
+  ]
+ },
+ {
+  "id": "20799",
+  "label": "pushing legos from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "legos"
+  ]
+ },
+ {
+  "id": "19173",
+  "label": "uncovering brush",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "brush"
+  ]
+ },
+ {
+  "id": "76152",
+  "label": "pushing stuffed animal from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "stuffed animal"
+  ]
+ },
+ {
+  "id": "186728",
+  "label": "putting an apple on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "an apple"
+  ]
+ },
+ {
+  "id": "134989",
+  "label": "pushing a book from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a book"
+  ]
+ },
+ {
+  "id": "218594",
+  "label": "pushing pumpkin cookie from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pumpkin cookie"
+  ]
+ },
+ {
+  "id": "8561",
+  "label": "pushing helmet from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "helmet"
+  ]
+ },
+ {
+  "id": "97818",
+  "label": "uncovering plastic jar",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "plastic jar"
+  ]
+ },
+ {
+  "id": "188693",
+  "label": "pushing cap from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cap"
+  ]
+ },
+ {
+  "id": "49034",
+  "label": "putting brush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "brush"
+  ]
+ },
+ {
+  "id": "143761",
+  "label": "putting a mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a mug"
+  ]
+ },
+ {
+  "id": "215657",
+  "label": "pushing scissors from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "801",
+  "label": "putting a phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a phone"
+  ]
+ },
+ {
+  "id": "219476",
+  "label": "putting bar soap on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bar soap"
+  ]
+ },
+ {
+  "id": "113882",
+  "label": "uncovering watch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "watch"
+  ]
+ },
+ {
+  "id": "142849",
+  "label": "putting doll on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "doll"
+  ]
+ },
+ {
+  "id": "116821",
+  "label": "uncovering a banana",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a banana"
+  ]
+ },
+ {
+  "id": "68449",
+  "label": "putting usb cable on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "usb cable"
+  ]
+ },
+ {
+  "id": "138102",
+  "label": "putting squeezable strawberry jam on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "squeezable strawberry jam"
+  ]
+ },
+ {
+  "id": "22359",
+  "label": "pushing plush from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "plush"
+  ]
+ },
+ {
+  "id": "175806",
+  "label": "uncovering clock",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "clock"
+  ]
+ },
+ {
+  "id": "66915",
+  "label": "pushing cupcake case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cupcake case"
+  ]
+ },
+ {
+  "id": "119998",
+  "label": "uncovering a container",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a container"
+  ]
+ },
+ {
+  "id": "218695",
+  "label": "pushing one face mask from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "one face mask"
+  ]
+ },
+ {
+  "id": "64664",
+  "label": "uncovering bag",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bag"
+  ]
+ },
+ {
+  "id": "173729",
+  "label": "putting teacup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "teacup"
+  ]
+ },
+ {
+  "id": "142572",
+  "label": "putting a mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "146986",
+  "label": "uncovering a mouse",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "22079",
+  "label": "putting a remote control on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a remote control"
+  ]
+ },
+ {
+  "id": "66676",
+  "label": "putting granola bar on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "granola bar"
+  ]
+ },
+ {
+  "id": "11960",
+  "label": "putting a mushroom lamp on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a mushroom lamp"
+  ]
+ },
+ {
+  "id": "70639",
+  "label": "putting a bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bottle"
+  ]
+ },
+ {
+  "id": "66960",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "217242",
+  "label": "pushing a battery from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a battery"
+  ]
+ },
+ {
+  "id": "211179",
+  "label": "uncovering smart watch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "smart watch"
+  ]
+ },
+ {
+  "id": "148299",
+  "label": "putting notebook on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "notebook"
+  ]
+ },
+ {
+  "id": "116390",
+  "label": "pushing plate from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "plate"
+  ]
+ },
+ {
+  "id": "146297",
+  "label": "pushing mug from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "134047",
+  "label": "putting jar on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "jar"
+  ]
+ },
+ {
+  "id": "71437",
+  "label": "putting ball on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "ball"
+  ]
+ },
+ {
+  "id": "106042",
+  "label": "uncovering electronic component",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "electronic component"
+  ]
+ },
+ {
+  "id": "110898",
+  "label": "putting fragrance on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "fragrance"
+  ]
+ },
+ {
+  "id": "114003",
+  "label": "putting candle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "141570",
+  "label": "uncovering scissors",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "197487",
+  "label": "pushing green purse from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "green purse"
+  ]
+ },
+ {
+  "id": "47665",
+  "label": "uncovering spoon",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "spoon"
+  ]
+ },
+ {
+  "id": "163230",
+  "label": "pushing trash can from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "trash can"
+  ]
+ },
+ {
+  "id": "135765",
+  "label": "putting glas on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "glas"
+  ]
+ },
+ {
+  "id": "149651",
+  "label": "pushing shoe box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "shoe box"
+  ]
+ },
+ {
+  "id": "215820",
+  "label": "uncovering mug",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "190624",
+  "label": "uncovering glue stick",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "glue stick"
+  ]
+ },
+ {
+  "id": "15038",
+  "label": "uncovering a book",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a book"
+  ]
+ },
+ {
+  "id": "192204",
+  "label": "putting a wooden block on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a wooden block"
+  ]
+ },
+ {
+  "id": "164310",
+  "label": "putting chair on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "chair"
+  ]
+ },
+ {
+  "id": "44533",
+  "label": "uncovering aerrings",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "aerrings"
+  ]
+ },
+ {
+  "id": "204961",
+  "label": "pushing small game card from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "small game card"
+  ]
+ },
+ {
+  "id": "177542",
+  "label": "uncovering tin",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tin"
+  ]
+ },
+ {
+  "id": "71461",
+  "label": "pushing bottle of water from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle of water"
+  ]
+ },
+ {
+  "id": "83389",
+  "label": "pushing blue ballpen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "blue ballpen"
+  ]
+ },
+ {
+  "id": "91105",
+  "label": "putting kindle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "kindle"
+  ]
+ },
+ {
+  "id": "201478",
+  "label": "uncovering a wrist band",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a wrist band"
+  ]
+ },
+ {
+  "id": "150153",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "74681",
+  "label": "putting candle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "47720",
+  "label": "uncovering apple",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "apple"
+  ]
+ },
+ {
+  "id": "213845",
+  "label": "pushing bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "66786",
+  "label": "putting a mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a mug"
+  ]
+ },
+ {
+  "id": "67280",
+  "label": "uncovering key chain",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "key chain"
+  ]
+ },
+ {
+  "id": "115373",
+  "label": "uncovering pillows",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pillows"
+  ]
+ },
+ {
+  "id": "19953",
+  "label": "uncovering pick",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pick"
+  ]
+ },
+ {
+  "id": "57686",
+  "label": "uncovering keys",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "keys"
+  ]
+ },
+ {
+  "id": "88490",
+  "label": "uncovering sunglasses",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "sunglasses"
+  ]
+ },
+ {
+  "id": "212972",
+  "label": "pushing spoon from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "spoon"
+  ]
+ },
+ {
+  "id": "42804",
+  "label": "pushing bracelet from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bracelet"
+  ]
+ },
+ {
+  "id": "215286",
+  "label": "pushing a garbage bin from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a garbage bin"
+  ]
+ },
+ {
+  "id": "51600",
+  "label": "uncovering toy idol",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toy idol"
+  ]
+ },
+ {
+  "id": "216847",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "209007",
+  "label": "pushing granola bar from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "granola bar"
+  ]
+ },
+ {
+  "id": "17011",
+  "label": "putting book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "29244",
+  "label": "putting green water bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "green water bottle"
+  ]
+ },
+ {
+  "id": "214453",
+  "label": "putting spoon on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "spoon"
+  ]
+ },
+ {
+  "id": "185684",
+  "label": "pushing chair from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "chair"
+  ]
+ },
+ {
+  "id": "37272",
+  "label": "pushing a bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a bottle"
+  ]
+ },
+ {
+  "id": "138183",
+  "label": "putting a cd case on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a cd case"
+  ]
+ },
+ {
+  "id": "16715",
+  "label": "uncovering garlic",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "garlic"
+  ]
+ },
+ {
+  "id": "178029",
+  "label": "putting passport on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "passport"
+  ]
+ },
+ {
+  "id": "102120",
+  "label": "putting a drill on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a drill"
+  ]
+ },
+ {
+  "id": "92107",
+  "label": "uncovering legs",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "legs"
+  ]
+ },
+ {
+  "id": "86593",
+  "label": "putting a pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "207720",
+  "label": "pushing pink toothbrush case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pink toothbrush case"
+  ]
+ },
+ {
+  "id": "196916",
+  "label": "uncovering pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "175930",
+  "label": "uncovering mp4 player",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mp4 player"
+  ]
+ },
+ {
+  "id": "91544",
+  "label": "pushing torch from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "torch"
+  ]
+ },
+ {
+  "id": "184837",
+  "label": "putting a pouch on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pouch"
+  ]
+ },
+ {
+  "id": "85527",
+  "label": "pushing box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "52976",
+  "label": "uncovering sock",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "sock"
+  ]
+ },
+ {
+  "id": "12868",
+  "label": "pushing marker from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "marker"
+  ]
+ },
+ {
+  "id": "140238",
+  "label": "pushing key from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "key"
+  ]
+ },
+ {
+  "id": "104278",
+  "label": "pushing calculator from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "calculator"
+  ]
+ },
+ {
+  "id": "143119",
+  "label": "putting tissue box on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tissue box"
+  ]
+ },
+ {
+  "id": "192925",
+  "label": "putting canned food on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "canned food"
+  ]
+ },
+ {
+  "id": "177027",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "112554",
+  "label": "pushing cell from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cell"
+  ]
+ },
+ {
+  "id": "120180",
+  "label": "putting a smartphone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a smartphone"
+  ]
+ },
+ {
+  "id": "74828",
+  "label": "putting charger adapter on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "charger adapter"
+  ]
+ },
+ {
+  "id": "162736",
+  "label": "pushing cup from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "152813",
+  "label": "pushing pencil from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pencil"
+  ]
+ },
+ {
+  "id": "78377",
+  "label": "pushing supplement bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "supplement bottle"
+  ]
+ },
+ {
+  "id": "164069",
+  "label": "putting tooth brush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tooth brush"
+  ]
+ },
+ {
+  "id": "128275",
+  "label": "pushing toy train from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "toy train"
+  ]
+ },
+ {
+  "id": "140210",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "189850",
+  "label": "uncovering coin",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "coin"
+  ]
+ },
+ {
+  "id": "187215",
+  "label": "pushing red bottlecap from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "red bottlecap"
+  ]
+ },
+ {
+  "id": "24175",
+  "label": "uncovering books",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "books"
+  ]
+ },
+ {
+  "id": "170727",
+  "label": "putting scotch tape on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "scotch tape"
+  ]
+ },
+ {
+  "id": "21063",
+  "label": "putting a glass on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a glass"
+  ]
+ },
+ {
+  "id": "206035",
+  "label": "uncovering hair clip",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "hair clip"
+  ]
+ },
+ {
+  "id": "114625",
+  "label": "putting remote control on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "remote control"
+  ]
+ },
+ {
+  "id": "150924",
+  "label": "putting a mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "138001",
+  "label": "putting a keybound on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a keybound"
+  ]
+ },
+ {
+  "id": "54224",
+  "label": "pushing remote from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "remote"
+  ]
+ },
+ {
+  "id": "13617",
+  "label": "uncovering toothbrush",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toothbrush"
+  ]
+ },
+ {
+  "id": "81709",
+  "label": "uncovering eye of stove",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "eye of stove"
+  ]
+ },
+ {
+  "id": "184986",
+  "label": "pushing candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "97201",
+  "label": "uncovering a bangle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a bangle"
+  ]
+ },
+ {
+  "id": "113132",
+  "label": "putting pot on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pot"
+  ]
+ },
+ {
+  "id": "93638",
+  "label": "uncovering a cardboard",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a cardboard"
+  ]
+ },
+ {
+  "id": "136522",
+  "label": "uncovering a stappler",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a stappler"
+  ]
+ },
+ {
+  "id": "206131",
+  "label": "putting a pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "209475",
+  "label": "putting body spray bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "body spray bottle"
+  ]
+ },
+ {
+  "id": "35153",
+  "label": "pushing candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "199252",
+  "label": "pushing small sunscreen lotion from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "small sunscreen lotion"
+  ]
+ },
+ {
+  "id": "164623",
+  "label": "putting mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "179411",
+  "label": "pushing nail varnish from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "nail varnish"
+  ]
+ },
+ {
+  "id": "120960",
+  "label": "uncovering goggles",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "goggles"
+  ]
+ },
+ {
+  "id": "62879",
+  "label": "putting an envelop on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "an envelop"
+  ]
+ },
+ {
+  "id": "85446",
+  "label": "pushing purple balloon pump from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "purple balloon pump"
+  ]
+ },
+ {
+  "id": "193529",
+  "label": "pushing a tin from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a tin"
+  ]
+ },
+ {
+  "id": "83069",
+  "label": "uncovering soap holder",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "soap holder"
+  ]
+ },
+ {
+  "id": "36725",
+  "label": "uncovering tablet",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tablet"
+  ]
+ },
+ {
+  "id": "68421",
+  "label": "putting glass of water on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "glass of water"
+  ]
+ },
+ {
+  "id": "211564",
+  "label": "putting cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "144633",
+  "label": "putting pink toothbrush case on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pink toothbrush case"
+  ]
+ },
+ {
+  "id": "186144",
+  "label": "putting iron roll on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "iron roll"
+  ]
+ },
+ {
+  "id": "101859",
+  "label": "pushing container from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "container"
+  ]
+ },
+ {
+  "id": "108784",
+  "label": "pushing marker pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "marker pen"
+  ]
+ },
+ {
+  "id": "21651",
+  "label": "putting book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "53036",
+  "label": "putting a notebook on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a notebook"
+  ]
+ },
+ {
+  "id": "201692",
+  "label": "pushing blue lighter from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "blue lighter"
+  ]
+ },
+ {
+  "id": "98888",
+  "label": "uncovering water bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "water bottle"
+  ]
+ },
+ {
+  "id": "152774",
+  "label": "uncovering watch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "watch"
+  ]
+ },
+ {
+  "id": "5576",
+  "label": "putting remote on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "remote"
+  ]
+ },
+ {
+  "id": "176804",
+  "label": "pushing android cornet from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "android cornet"
+  ]
+ },
+ {
+  "id": "148407",
+  "label": "uncovering stuffed animal",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "stuffed animal"
+  ]
+ },
+ {
+  "id": "176048",
+  "label": "pushing a screw from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a screw"
+  ]
+ },
+ {
+  "id": "46363",
+  "label": "putting id card on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "id card"
+  ]
+ },
+ {
+  "id": "63680",
+  "label": "putting pink water bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pink water bottle"
+  ]
+ },
+ {
+  "id": "165861",
+  "label": "uncovering baby doll",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "baby doll"
+  ]
+ },
+ {
+  "id": "195519",
+  "label": "putting rocks on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "rocks"
+  ]
+ },
+ {
+  "id": "79242",
+  "label": "putting cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "18645",
+  "label": "pushing pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "60125",
+  "label": "pushing a wallet from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a wallet"
+  ]
+ },
+ {
+  "id": "85924",
+  "label": "uncovering phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "199953",
+  "label": "pushing black hair tie from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "black hair tie"
+  ]
+ },
+ {
+  "id": "55356",
+  "label": "uncovering a case",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a case"
+  ]
+ },
+ {
+  "id": "21773",
+  "label": "putting egg on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "egg"
+  ]
+ },
+ {
+  "id": "44938",
+  "label": "uncovering cookies box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cookies box"
+  ]
+ },
+ {
+  "id": "136480",
+  "label": "uncovering dice",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "dice"
+  ]
+ },
+ {
+  "id": "218511",
+  "label": "putting a folder on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a folder"
+  ]
+ },
+ {
+  "id": "129897",
+  "label": "putting package on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "package"
+  ]
+ },
+ {
+  "id": "199173",
+  "label": "putting a bottle of water on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bottle of water"
+  ]
+ },
+ {
+  "id": "58849",
+  "label": "putting a mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "112509",
+  "label": "putting cereal box on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cereal box"
+  ]
+ },
+ {
+  "id": "188525",
+  "label": "uncovering sunglasses",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "sunglasses"
+  ]
+ },
+ {
+  "id": "53049",
+  "label": "pushing container lid from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "container lid"
+  ]
+ },
+ {
+  "id": "196623",
+  "label": "pushing black brush from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "black brush"
+  ]
+ },
+ {
+  "id": "38220",
+  "label": "pushing pink box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pink box"
+  ]
+ },
+ {
+  "id": "89763",
+  "label": "uncovering earphones",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "earphones"
+  ]
+ },
+ {
+  "id": "136441",
+  "label": "pushing book from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "113404",
+  "label": "putting glasses box on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "glasses box"
+  ]
+ },
+ {
+  "id": "87931",
+  "label": "putting book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "138988",
+  "label": "pushing glass from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "glass"
+  ]
+ },
+ {
+  "id": "173288",
+  "label": "putting hand cream tube on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hand cream tube"
+  ]
+ },
+ {
+  "id": "209739",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "215414",
+  "label": "putting calculator on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "calculator"
+  ]
+ },
+ {
+  "id": "95729",
+  "label": "uncovering a book",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a book"
+  ]
+ },
+ {
+  "id": "142521",
+  "label": "putting a remote control on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a remote control"
+  ]
+ },
+ {
+  "id": "136269",
+  "label": "pushing red pot holder from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "red pot holder"
+  ]
+ },
+ {
+  "id": "180303",
+  "label": "pushing pen stand from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pen stand"
+  ]
+ },
+ {
+  "id": "132740",
+  "label": "uncovering flashlight",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "flashlight"
+  ]
+ },
+ {
+  "id": "139833",
+  "label": "uncovering a cell phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a cell phone"
+  ]
+ },
+ {
+  "id": "38951",
+  "label": "uncovering doll",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "doll"
+  ]
+ },
+ {
+  "id": "208629",
+  "label": "uncovering orange",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "orange"
+  ]
+ },
+ {
+  "id": "182911",
+  "label": "uncovering decoration box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "decoration box"
+  ]
+ },
+ {
+  "id": "4946",
+  "label": "putting tissues on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tissues"
+  ]
+ },
+ {
+  "id": "35707",
+  "label": "putting chalk on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "chalk"
+  ]
+ },
+ {
+  "id": "139308",
+  "label": "putting mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "114772",
+  "label": "putting phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "31877",
+  "label": "pushing pencil box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pencil box"
+  ]
+ },
+ {
+  "id": "219481",
+  "label": "putting a trimmer on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a trimmer"
+  ]
+ },
+ {
+  "id": "207782",
+  "label": "putting toy on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "toy"
+  ]
+ },
+ {
+  "id": "15724",
+  "label": "uncovering slippers",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "slippers"
+  ]
+ },
+ {
+  "id": "67525",
+  "label": "pushing orange notebook from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "orange notebook"
+  ]
+ },
+ {
+  "id": "179063",
+  "label": "uncovering cans",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cans"
+  ]
+ },
+ {
+  "id": "191435",
+  "label": "uncovering lighter",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "lighter"
+  ]
+ },
+ {
+  "id": "28285",
+  "label": "uncovering teacup",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "teacup"
+  ]
+ },
+ {
+  "id": "137772",
+  "label": "pushing nail polish from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "nail polish"
+  ]
+ },
+ {
+  "id": "73957",
+  "label": "putting toothbrush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "toothbrush"
+  ]
+ },
+ {
+  "id": "91241",
+  "label": "pushing bottle cap from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle cap"
+  ]
+ },
+ {
+  "id": "196448",
+  "label": "pushing nail paint remover from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "nail paint remover"
+  ]
+ },
+ {
+  "id": "91013",
+  "label": "uncovering a pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "5226",
+  "label": "uncovering wood spoon",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "wood spoon"
+  ]
+ },
+ {
+  "id": "92833",
+  "label": "pushing telephone from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "telephone"
+  ]
+ },
+ {
+  "id": "8959",
+  "label": "uncovering pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "199206",
+  "label": "pushing black disc case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "black disc case"
+  ]
+ },
+ {
+  "id": "110594",
+  "label": "pushing shaver from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "shaver"
+  ]
+ },
+ {
+  "id": "161387",
+  "label": "uncovering tv remote",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tv remote"
+  ]
+ },
+ {
+  "id": "153520",
+  "label": "pushing glasses case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "glasses case"
+  ]
+ },
+ {
+  "id": "61122",
+  "label": "uncovering a pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "125602",
+  "label": "putting hairclip on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hairclip"
+  ]
+ },
+ {
+  "id": "79647",
+  "label": "putting mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mouse"
+  ]
+ },
+ {
+  "id": "150712",
+  "label": "uncovering glass",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "glass"
+  ]
+ },
+ {
+  "id": "172411",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "56093",
+  "label": "uncovering the watch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "the watch"
+  ]
+ },
+ {
+  "id": "136527",
+  "label": "uncovering candles",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "candles"
+  ]
+ },
+ {
+  "id": "3921",
+  "label": "uncovering apple tv remote",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "apple tv remote"
+  ]
+ },
+ {
+  "id": "219238",
+  "label": "putting tiger on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tiger"
+  ]
+ },
+ {
+  "id": "111926",
+  "label": "pushing stapler from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "stapler"
+  ]
+ },
+ {
+  "id": "213734",
+  "label": "uncovering remote control",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "remote control"
+  ]
+ },
+ {
+  "id": "194035",
+  "label": "putting lamp on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "lamp"
+  ]
+ },
+ {
+  "id": "108951",
+  "label": "uncovering flip flops",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "flip flops"
+  ]
+ },
+ {
+  "id": "57972",
+  "label": "uncovering frog statue",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "frog statue"
+  ]
+ },
+ {
+  "id": "36074",
+  "label": "uncovering paper",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "paper"
+  ]
+ },
+ {
+  "id": "70956",
+  "label": "putting hairband on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hairband"
+  ]
+ },
+ {
+  "id": "198342",
+  "label": "putting wax jar on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "wax jar"
+  ]
+ },
+ {
+  "id": "186388",
+  "label": "putting lunchbox on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "lunchbox"
+  ]
+ },
+ {
+  "id": "190482",
+  "label": "uncovering pebble",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pebble"
+  ]
+ },
+ {
+  "id": "152743",
+  "label": "uncovering cd",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cd"
+  ]
+ },
+ {
+  "id": "56826",
+  "label": "uncovering bed",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bed"
+  ]
+ },
+ {
+  "id": "94733",
+  "label": "uncovering the bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "the bottle"
+  ]
+ },
+ {
+  "id": "43134",
+  "label": "putting a travel mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a travel mug"
+  ]
+ },
+ {
+  "id": "89830",
+  "label": "pushing compact disc from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "compact disc"
+  ]
+ },
+ {
+  "id": "179990",
+  "label": "pushing small freshmints from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "small freshmints"
+  ]
+ },
+ {
+  "id": "43954",
+  "label": "pushing green face powder from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "green face powder"
+  ]
+ },
+ {
+  "id": "73131",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "53492",
+  "label": "putting candle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "36913",
+  "label": "uncovering rock",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "rock"
+  ]
+ },
+ {
+  "id": "86025",
+  "label": "uncovering cashew",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cashew"
+  ]
+ },
+ {
+  "id": "201342",
+  "label": "putting jar on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "jar"
+  ]
+ },
+ {
+  "id": "65434",
+  "label": "uncovering pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "50906",
+  "label": "putting plastic container on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "plastic container"
+  ]
+ },
+ {
+  "id": "151044",
+  "label": "putting cell phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cell phone"
+  ]
+ },
+ {
+  "id": "74983",
+  "label": "putting mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "mug"
+  ]
+ },
+ {
+  "id": "30315",
+  "label": "pushing plate from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "plate"
+  ]
+ },
+ {
+  "id": "62813",
+  "label": "putting cards on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cards"
+  ]
+ },
+ {
+  "id": "84277",
+  "label": "uncovering screwdriver",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "screwdriver"
+  ]
+ },
+ {
+  "id": "136067",
+  "label": "uncovering toothbrush",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toothbrush"
+  ]
+ },
+ {
+  "id": "140620",
+  "label": "uncovering ball",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "ball"
+  ]
+ },
+ {
+  "id": "193333",
+  "label": "putting spoon on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "spoon"
+  ]
+ },
+ {
+  "id": "191006",
+  "label": "uncovering a wok",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a wok"
+  ]
+ },
+ {
+  "id": "44303",
+  "label": "putting plant on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "plant"
+  ]
+ },
+ {
+  "id": "93723",
+  "label": "uncovering coupon",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "coupon"
+  ]
+ },
+ {
+  "id": "80680",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "101156",
+  "label": "putting eraser on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "eraser"
+  ]
+ },
+ {
+  "id": "23152",
+  "label": "uncovering gear wheel",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "gear wheel"
+  ]
+ },
+ {
+  "id": "151270",
+  "label": "uncovering a vessel",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a vessel"
+  ]
+ },
+ {
+  "id": "5455",
+  "label": "uncovering bangles",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bangles"
+  ]
+ },
+ {
+  "id": "117031",
+  "label": "putting red pot holder on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "red pot holder"
+  ]
+ },
+ {
+  "id": "103953",
+  "label": "uncovering a flask cover",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a flask cover"
+  ]
+ },
+ {
+  "id": "160396",
+  "label": "uncovering remote",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "remote"
+  ]
+ },
+ {
+  "id": "131001",
+  "label": "putting cloth clip on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cloth clip"
+  ]
+ },
+ {
+  "id": "216559",
+  "label": "putting a soda can on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a soda can"
+  ]
+ },
+ {
+  "id": "206775",
+  "label": "uncovering a watch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a watch"
+  ]
+ },
+ {
+  "id": "82661",
+  "label": "putting something on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "146384",
+  "label": "pushing paint tube from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "paint tube"
+  ]
+ },
+ {
+  "id": "159180",
+  "label": "pushing phone from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "59656",
+  "label": "putting can on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "can"
+  ]
+ },
+ {
+  "id": "177209",
+  "label": "uncovering a teddy",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a teddy"
+  ]
+ },
+ {
+  "id": "80757",
+  "label": "pushing tissues from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "tissues"
+  ]
+ },
+ {
+  "id": "83767",
+  "label": "uncovering a phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a phone"
+  ]
+ },
+ {
+  "id": "111422",
+  "label": "pushing white candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "white candle"
+  ]
+ },
+ {
+  "id": "82168",
+  "label": "putting hat on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hat"
+  ]
+ },
+ {
+  "id": "152114",
+  "label": "uncovering a wallet",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a wallet"
+  ]
+ },
+ {
+  "id": "60981",
+  "label": "putting stick on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "stick"
+  ]
+ },
+ {
+  "id": "143643",
+  "label": "pushing brown case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "brown case"
+  ]
+ },
+ {
+  "id": "145242",
+  "label": "putting a bottle of mustard on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bottle of mustard"
+  ]
+ },
+ {
+  "id": "41579",
+  "label": "putting cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "138355",
+  "label": "putting cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "212279",
+  "label": "pushing a box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a box"
+  ]
+ },
+ {
+  "id": "62189",
+  "label": "pushing one tealight candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "one tealight candle"
+  ]
+ },
+ {
+  "id": "25918",
+  "label": "pushing box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "140340",
+  "label": "pushing colorful scarf from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "colorful scarf"
+  ]
+ },
+ {
+  "id": "181356",
+  "label": "pushing baking powder from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "baking powder"
+  ]
+ },
+ {
+  "id": "150705",
+  "label": "putting a pill box on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pill box"
+  ]
+ },
+ {
+  "id": "90522",
+  "label": "uncovering table",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "table"
+  ]
+ },
+ {
+  "id": "191570",
+  "label": "putting car keys on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "car keys"
+  ]
+ },
+ {
+  "id": "217361",
+  "label": "uncovering key",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "key"
+  ]
+ },
+ {
+  "id": "141032",
+  "label": "putting baking powder on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "baking powder"
+  ]
+ },
+ {
+  "id": "182920",
+  "label": "uncovering an ipad",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "an ipad"
+  ]
+ },
+ {
+  "id": "106432",
+  "label": "pushing battery from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "battery"
+  ]
+ },
+ {
+  "id": "118121",
+  "label": "uncovering cd",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cd"
+  ]
+ },
+ {
+  "id": "71913",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "128734",
+  "label": "putting hairpin on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hairpin"
+  ]
+ },
+ {
+  "id": "143947",
+  "label": "pushing brown bracelet from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "brown bracelet"
+  ]
+ },
+ {
+  "id": "86087",
+  "label": "uncovering pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "73312",
+  "label": "uncovering cellphone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cellphone"
+  ]
+ },
+ {
+  "id": "187496",
+  "label": "pushing stapler from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "stapler"
+  ]
+ },
+ {
+  "id": "201366",
+  "label": "uncovering a card",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a card"
+  ]
+ },
+ {
+  "id": "101862",
+  "label": "uncovering scissor",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "scissor"
+  ]
+ },
+ {
+  "id": "8642",
+  "label": "pushing a battery from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a battery"
+  ]
+ },
+ {
+  "id": "124435",
+  "label": "pushing glue from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "glue"
+  ]
+ },
+ {
+  "id": "166634",
+  "label": "pushing canned food from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "canned food"
+  ]
+ },
+ {
+  "id": "43065",
+  "label": "putting black play cards on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "black play cards"
+  ]
+ },
+ {
+  "id": "71929",
+  "label": "pushing wrist watch from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "wrist watch"
+  ]
+ },
+ {
+  "id": "138510",
+  "label": "uncovering a phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a phone"
+  ]
+ },
+ {
+  "id": "13055",
+  "label": "putting soft tissue roll on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "soft tissue roll"
+  ]
+ },
+ {
+  "id": "114264",
+  "label": "putting perfume bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "perfume bottle"
+  ]
+ },
+ {
+  "id": "119331",
+  "label": "uncovering eraser",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "eraser"
+  ]
+ },
+ {
+  "id": "150588",
+  "label": "uncovering toothbrush",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "toothbrush"
+  ]
+ },
+ {
+  "id": "179463",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "168348",
+  "label": "uncovering a mason jar",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a mason jar"
+  ]
+ },
+ {
+  "id": "166004",
+  "label": "uncovering popcorn",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "popcorn"
+  ]
+ },
+ {
+  "id": "79534",
+  "label": "pushing world globe from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "world globe"
+  ]
+ },
+ {
+  "id": "116507",
+  "label": "putting brush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "brush"
+  ]
+ },
+ {
+  "id": "145219",
+  "label": "uncovering air conditioner and window from blinds",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "air conditioner and window from blinds"
+  ]
+ },
+ {
+  "id": "59360",
+  "label": "putting bottled ponzu sauce on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottled ponzu sauce"
+  ]
+ },
+ {
+  "id": "153198",
+  "label": "pushing remote control from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "remote control"
+  ]
+ },
+ {
+  "id": "186560",
+  "label": "pushing candle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "candle"
+  ]
+ },
+ {
+  "id": "185188",
+  "label": "uncovering a table tennis ball",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a table tennis ball"
+  ]
+ },
+ {
+  "id": "135039",
+  "label": "pushing aim toothpaste from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "aim toothpaste"
+  ]
+ },
+ {
+  "id": "128515",
+  "label": "uncovering a small container",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a small container"
+  ]
+ },
+ {
+  "id": "81322",
+  "label": "pushing a textsurfer from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a textsurfer"
+  ]
+ },
+ {
+  "id": "77606",
+  "label": "pushing dvd case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "dvd case"
+  ]
+ },
+ {
+  "id": "206947",
+  "label": "uncovering bed",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bed"
+  ]
+ },
+ {
+  "id": "29999",
+  "label": "pushing glasses from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "glasses"
+  ]
+ },
+ {
+  "id": "152209",
+  "label": "pushing book from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "71563",
+  "label": "pushing orange bowl from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "orange bowl"
+  ]
+ },
+ {
+  "id": "91009",
+  "label": "pushing knife from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "knife"
+  ]
+ },
+ {
+  "id": "15657",
+  "label": "uncovering usb",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "usb"
+  ]
+ },
+ {
+  "id": "5705",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "189936",
+  "label": "pushing cup from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "190899",
+  "label": "putting a pencil on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pencil"
+  ]
+ },
+ {
+  "id": "202588",
+  "label": "putting ruler on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "ruler"
+  ]
+ },
+ {
+  "id": "145268",
+  "label": "putting bowl on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bowl"
+  ]
+ },
+ {
+  "id": "134457",
+  "label": "uncovering pencil",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pencil"
+  ]
+ },
+ {
+  "id": "163103",
+  "label": "pushing casual hat from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "casual hat"
+  ]
+ },
+ {
+  "id": "154626",
+  "label": "uncovering a box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a box"
+  ]
+ },
+ {
+  "id": "104468",
+  "label": "pushing pink blush on from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pink blush on"
+  ]
+ },
+ {
+  "id": "71417",
+  "label": "putting tiger toy on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tiger toy"
+  ]
+ },
+ {
+  "id": "132868",
+  "label": "uncovering green toy car",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "green toy car"
+  ]
+ },
+ {
+  "id": "141825",
+  "label": "putting vial on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "vial"
+  ]
+ },
+ {
+  "id": "204125",
+  "label": "putting plastic cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "plastic cup"
+  ]
+ },
+ {
+  "id": "112347",
+  "label": "putting something on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "138117",
+  "label": "putting a pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "53968",
+  "label": "putting sandal on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "sandal"
+  ]
+ },
+ {
+  "id": "191232",
+  "label": "pushing drawing notebook from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "drawing notebook"
+  ]
+ },
+ {
+  "id": "46778",
+  "label": "pushing marker pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "marker pen"
+  ]
+ },
+ {
+  "id": "22355",
+  "label": "putting book on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "book"
+  ]
+ },
+ {
+  "id": "117638",
+  "label": "pushing a toy car from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a toy car"
+  ]
+ },
+ {
+  "id": "94090",
+  "label": "putting battery on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "battery"
+  ]
+ },
+ {
+  "id": "27809",
+  "label": "uncovering a bird cage",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a bird cage"
+  ]
+ },
+ {
+  "id": "191030",
+  "label": "uncovering cup",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "188112",
+  "label": "pushing a toy truck from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a toy truck"
+  ]
+ },
+ {
+  "id": "102948",
+  "label": "putting spoon on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "spoon"
+  ]
+ },
+ {
+  "id": "43477",
+  "label": "pushing table from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "table"
+  ]
+ },
+ {
+  "id": "181866",
+  "label": "putting something on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "108720",
+  "label": "uncovering wifi pod",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "wifi pod"
+  ]
+ },
+ {
+  "id": "203",
+  "label": "putting a bowl on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bowl"
+  ]
+ },
+ {
+  "id": "155958",
+  "label": "pushing white book marker from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "white book marker"
+  ]
+ },
+ {
+  "id": "64881",
+  "label": "uncovering a pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "52185",
+  "label": "uncovering briefcase",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "briefcase"
+  ]
+ },
+ {
+  "id": "92486",
+  "label": "uncovering pillow",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pillow"
+  ]
+ },
+ {
+  "id": "189044",
+  "label": "uncovering shoelaces",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "shoelaces"
+  ]
+ },
+ {
+  "id": "202641",
+  "label": "pushing green bowl from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "green bowl"
+  ]
+ },
+ {
+  "id": "16914",
+  "label": "putting fork on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "fork"
+  ]
+ },
+ {
+  "id": "66505",
+  "label": "uncovering a notebook",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a notebook"
+  ]
+ },
+ {
+  "id": "100516",
+  "label": "pushing red watch case from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "red watch case"
+  ]
+ },
+ {
+  "id": "92283",
+  "label": "putting sunglasses on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "sunglasses"
+  ]
+ },
+ {
+  "id": "151454",
+  "label": "pushing pink water bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pink water bottle"
+  ]
+ },
+ {
+  "id": "32167",
+  "label": "pushing bottlecap from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottlecap"
+  ]
+ },
+ {
+  "id": "14227",
+  "label": "putting a mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a mouse"
+  ]
+ },
+ {
+  "id": "194513",
+  "label": "putting a bottle of lotion on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bottle of lotion"
+  ]
+ },
+ {
+  "id": "60290",
+  "label": "putting plastic mug on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "plastic mug"
+  ]
+ },
+ {
+  "id": "184347",
+  "label": "uncovering mobile",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mobile"
+  ]
+ },
+ {
+  "id": "42048",
+  "label": "uncovering matchbox",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "matchbox"
+  ]
+ },
+ {
+  "id": "196781",
+  "label": "uncovering tape",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tape"
+  ]
+ },
+ {
+  "id": "64582",
+  "label": "uncovering a glass",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a glass"
+  ]
+ },
+ {
+  "id": "51127",
+  "label": "pushing glass from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "glass"
+  ]
+ },
+ {
+  "id": "177640",
+  "label": "uncovering broom",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "broom"
+  ]
+ },
+ {
+  "id": "157681",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "91917",
+  "label": "putting soap on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "soap"
+  ]
+ },
+ {
+  "id": "46256",
+  "label": "putting newspaper on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "newspaper"
+  ]
+ },
+ {
+  "id": "171027",
+  "label": "pushing pushing a child's water bottle top across kitchen counter from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pushing a child's water bottle top across kitchen counter"
+  ]
+ },
+ {
+  "id": "195096",
+  "label": "putting a glass on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a glass"
+  ]
+ },
+ {
+  "id": "195032",
+  "label": "pushing white envelope from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "white envelope"
+  ]
+ },
+ {
+  "id": "173422",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "137038",
+  "label": "putting a speaker on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a speaker"
+  ]
+ },
+ {
+  "id": "15201",
+  "label": "uncovering branch",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "branch"
+  ]
+ },
+ {
+  "id": "27436",
+  "label": "uncovering box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "115957",
+  "label": "uncovering remote control",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "remote control"
+  ]
+ },
+ {
+  "id": "138364",
+  "label": "putting flashlight on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "flashlight"
+  ]
+ },
+ {
+  "id": "131223",
+  "label": "pushing red pencil sharpner from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "red pencil sharpner"
+  ]
+ },
+ {
+  "id": "152430",
+  "label": "putting glue stick on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "glue stick"
+  ]
+ },
+ {
+  "id": "177289",
+  "label": "putting a cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a cup"
+  ]
+ },
+ {
+  "id": "4004",
+  "label": "putting scissor on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "scissor"
+  ]
+ },
+ {
+  "id": "124015",
+  "label": "pushing heater component from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "heater component"
+  ]
+ },
+ {
+  "id": "12942",
+  "label": "uncovering a box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a box"
+  ]
+ },
+ {
+  "id": "30414",
+  "label": "putting a block of paper on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a block of paper"
+  ]
+ },
+ {
+  "id": "179551",
+  "label": "pushing green chalk from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "green chalk"
+  ]
+ },
+ {
+  "id": "146053",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "68888",
+  "label": "putting glass on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "glass"
+  ]
+ },
+ {
+  "id": "3226",
+  "label": "pushing bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "42075",
+  "label": "pushing a brush from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a brush"
+  ]
+ },
+ {
+  "id": "217909",
+  "label": "pushing pushing plastic spray from left to right from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pushing plastic spray from left to right"
+  ]
+ },
+ {
+  "id": "118265",
+  "label": "putting ball on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "ball"
+  ]
+ },
+ {
+  "id": "132955",
+  "label": "putting a screw on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a screw"
+  ]
+ },
+ {
+  "id": "123823",
+  "label": "putting a glass on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a glass"
+  ]
+ },
+ {
+  "id": "16977",
+  "label": "putting a phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a phone"
+  ]
+ },
+ {
+  "id": "20485",
+  "label": "pushing a vase from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a vase"
+  ]
+ },
+ {
+  "id": "166779",
+  "label": "pushing hair clip from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "hair clip"
+  ]
+ },
+ {
+  "id": "135322",
+  "label": "putting red toy car on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "red toy car"
+  ]
+ },
+ {
+  "id": "37580",
+  "label": "uncovering laptop",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "laptop"
+  ]
+ },
+ {
+  "id": "100590",
+  "label": "uncovering my face",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "my face"
+  ]
+ },
+ {
+  "id": "23884",
+  "label": "pushing bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "189275",
+  "label": "pushing a toy car from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a toy car"
+  ]
+ },
+ {
+  "id": "50331",
+  "label": "putting puzzle dice on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "puzzle dice"
+  ]
+ },
+ {
+  "id": "187312",
+  "label": "pushing green headlight from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "green headlight"
+  ]
+ },
+ {
+  "id": "50424",
+  "label": "pushing pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "185953",
+  "label": "uncovering lighter",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "lighter"
+  ]
+ },
+ {
+  "id": "50781",
+  "label": "putting scissors on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "163292",
+  "label": "pushing nail varnish from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "nail varnish"
+  ]
+ },
+ {
+  "id": "111463",
+  "label": "putting tablet on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tablet"
+  ]
+ },
+ {
+  "id": "149633",
+  "label": "putting red spoon on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "red spoon"
+  ]
+ },
+ {
+  "id": "146957",
+  "label": "pushing a hat from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a hat"
+  ]
+ },
+ {
+  "id": "56578",
+  "label": "uncovering tablet",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "tablet"
+  ]
+ },
+ {
+  "id": "17765",
+  "label": "pushing a flashlight from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a flashlight"
+  ]
+ },
+ {
+  "id": "93698",
+  "label": "pushing paper punch from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "paper punch"
+  ]
+ },
+ {
+  "id": "58567",
+  "label": "putting chess piece on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "chess piece"
+  ]
+ },
+ {
+  "id": "188132",
+  "label": "putting remote control on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "remote control"
+  ]
+ },
+ {
+  "id": "157680",
+  "label": "uncovering pillow",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pillow"
+  ]
+ },
+ {
+  "id": "22367",
+  "label": "putting stapler on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "stapler"
+  ]
+ },
+ {
+  "id": "110402",
+  "label": "pushing a mug from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a mug"
+  ]
+ },
+ {
+  "id": "13843",
+  "label": "uncovering striker coin",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "striker coin"
+  ]
+ },
+ {
+  "id": "219401",
+  "label": "uncovering cigarette",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cigarette"
+  ]
+ },
+ {
+  "id": "94288",
+  "label": "uncovering a headphones",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a headphones"
+  ]
+ },
+ {
+  "id": "48371",
+  "label": "uncovering lantern",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "lantern"
+  ]
+ },
+ {
+  "id": "33775",
+  "label": "pushing a tissue box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a tissue box"
+  ]
+ },
+ {
+  "id": "88053",
+  "label": "uncovering packing tape",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "packing tape"
+  ]
+ },
+ {
+  "id": "122484",
+  "label": "putting plate on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "plate"
+  ]
+ },
+ {
+  "id": "30183",
+  "label": "uncovering marker",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "marker"
+  ]
+ },
+ {
+  "id": "20616",
+  "label": "pushing bottle cap from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle cap"
+  ]
+ },
+ {
+  "id": "56440",
+  "label": "putting red candle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "red candle"
+  ]
+ },
+ {
+  "id": "159733",
+  "label": "uncovering onion",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "onion"
+  ]
+ },
+ {
+  "id": "186343",
+  "label": "putting a pyramid on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pyramid"
+  ]
+ },
+ {
+  "id": "2661",
+  "label": "uncovering bottle",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "174633",
+  "label": "pushing plastic bag from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "plastic bag"
+  ]
+ },
+ {
+  "id": "74115",
+  "label": "pushing the fan from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "the fan"
+  ]
+ },
+ {
+  "id": "68019",
+  "label": "pushing a coaster from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a coaster"
+  ]
+ },
+ {
+  "id": "157449",
+  "label": "uncovering a pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a pen"
+  ]
+ },
+ {
+  "id": "73540",
+  "label": "putting something on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "something"
+  ]
+ },
+ {
+  "id": "200298",
+  "label": "pushing bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "192632",
+  "label": "putting a glas on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a glas"
+  ]
+ },
+ {
+  "id": "73936",
+  "label": "putting toothbrush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "toothbrush"
+  ]
+ },
+ {
+  "id": "190897",
+  "label": "putting a cup on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a cup"
+  ]
+ },
+ {
+  "id": "188137",
+  "label": "putting watch on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "watch"
+  ]
+ },
+ {
+  "id": "170488",
+  "label": "pushing alcohol from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "95522",
+  "label": "putting soft drink pack on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "soft drink pack"
+  ]
+ },
+ {
+  "id": "134065",
+  "label": "uncovering coaster",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "coaster"
+  ]
+ },
+ {
+  "id": "201604",
+  "label": "uncovering cloth",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cloth"
+  ]
+ },
+ {
+  "id": "110509",
+  "label": "pushing small book from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "small book"
+  ]
+ },
+ {
+  "id": "141187",
+  "label": "uncovering keys",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "keys"
+  ]
+ },
+ {
+  "id": "114501",
+  "label": "pushing chair from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "chair"
+  ]
+ },
+ {
+  "id": "112147",
+  "label": "pushing orange post-it from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "orange post-it"
+  ]
+ },
+ {
+  "id": "207003",
+  "label": "uncovering phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "156054",
+  "label": "uncovering deodorant",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "deodorant"
+  ]
+ },
+ {
+  "id": "27026",
+  "label": "uncovering key",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "key"
+  ]
+ },
+ {
+  "id": "138813",
+  "label": "uncovering button",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "button"
+  ]
+ },
+ {
+  "id": "195811",
+  "label": "uncovering wooden stick",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "wooden stick"
+  ]
+ },
+ {
+  "id": "133186",
+  "label": "pushing black remote from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "black remote"
+  ]
+ },
+ {
+  "id": "112826",
+  "label": "uncovering clip",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "clip"
+  ]
+ },
+ {
+  "id": "58444",
+  "label": "putting coin on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "coin"
+  ]
+ },
+ {
+  "id": "124156",
+  "label": "putting button on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "button"
+  ]
+ },
+ {
+  "id": "183380",
+  "label": "putting chopping board on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "chopping board"
+  ]
+ },
+ {
+  "id": "122623",
+  "label": "pushing coin from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "coin"
+  ]
+ },
+ {
+  "id": "116270",
+  "label": "pushing controller from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "controller"
+  ]
+ },
+ {
+  "id": "218711",
+  "label": "pushing cup from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "cup"
+  ]
+ },
+ {
+  "id": "171255",
+  "label": "uncovering glass",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "glass"
+  ]
+ },
+ {
+  "id": "5873",
+  "label": "uncovering dog",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "dog"
+  ]
+ },
+ {
+  "id": "185520",
+  "label": "uncovering a box of pins",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a box of pins"
+  ]
+ },
+ {
+  "id": "118879",
+  "label": "putting cream on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cream"
+  ]
+ },
+ {
+  "id": "110169",
+  "label": "putting a bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a bottle"
+  ]
+ },
+ {
+  "id": "122241",
+  "label": "pushing red colour clip box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "red colour clip box"
+  ]
+ },
+ {
+  "id": "118801",
+  "label": "putting computer mouse on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "computer mouse"
+  ]
+ },
+ {
+  "id": "118508",
+  "label": "uncovering a vase",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a vase"
+  ]
+ },
+ {
+  "id": "37638",
+  "label": "putting colorful scarf on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "colorful scarf"
+  ]
+ },
+ {
+  "id": "177118",
+  "label": "uncovering travel iron-box",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "travel iron-box"
+  ]
+ },
+ {
+  "id": "78602",
+  "label": "putting purple microfiber on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "purple microfiber"
+  ]
+ },
+ {
+  "id": "23512",
+  "label": "pushing a bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "a bottle"
+  ]
+ },
+ {
+  "id": "156116",
+  "label": "pushing pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "48387",
+  "label": "pushing pen from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "196379",
+  "label": "pushing mouse from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "mouse"
+  ]
+ },
+ {
+  "id": "42620",
+  "label": "putting measuring tape on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "measuring tape"
+  ]
+ },
+ {
+  "id": "49845",
+  "label": "uncovering milk",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "milk"
+  ]
+ },
+ {
+  "id": "25657",
+  "label": "pushing duster from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "duster"
+  ]
+ },
+ {
+  "id": "90542",
+  "label": "putting tape on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "tape"
+  ]
+ },
+ {
+  "id": "213371",
+  "label": "uncovering wound",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "wound"
+  ]
+ },
+ {
+  "id": "131456",
+  "label": "putting cushion on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "cushion"
+  ]
+ },
+ {
+  "id": "21421",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "211585",
+  "label": "putting orange post-it on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "orange post-it"
+  ]
+ },
+ {
+  "id": "88011",
+  "label": "uncovering plastic knife",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "plastic knife"
+  ]
+ },
+ {
+  "id": "39745",
+  "label": "uncovering soap",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "soap"
+  ]
+ },
+ {
+  "id": "112348",
+  "label": "pushing foldable knife from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "foldable knife"
+  ]
+ },
+ {
+  "id": "44321",
+  "label": "putting shoe on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "shoe"
+  ]
+ },
+ {
+  "id": "39430",
+  "label": "uncovering a lipstick lid",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a lipstick lid"
+  ]
+ },
+ {
+  "id": "112658",
+  "label": "putting sauce bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "sauce bottle"
+  ]
+ },
+ {
+  "id": "145929",
+  "label": "pushing tape dispenser from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "tape dispenser"
+  ]
+ },
+ {
+  "id": "70031",
+  "label": "pushing double-sided adhesive tape from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "double-sided adhesive tape"
+  ]
+ },
+ {
+  "id": "151923",
+  "label": "uncovering paper",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "paper"
+  ]
+ },
+ {
+  "id": "58520",
+  "label": "pushing spectacle box from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "spectacle box"
+  ]
+ },
+ {
+  "id": "13096",
+  "label": "pushing shot glass from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "shot glass"
+  ]
+ },
+ {
+  "id": "130921",
+  "label": "uncovering pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "14393",
+  "label": "putting scissors on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "83341",
+  "label": "uncovering bracelet",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "bracelet"
+  ]
+ },
+ {
+  "id": "63808",
+  "label": "uncovering pen",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "108199",
+  "label": "putting phone on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "phone"
+  ]
+ },
+ {
+  "id": "115880",
+  "label": "uncovering eraser",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "eraser"
+  ]
+ },
+ {
+  "id": "40877",
+  "label": "uncovering saucepan",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "saucepan"
+  ]
+ },
+ {
+  "id": "8318",
+  "label": "putting a marker on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a marker"
+  ]
+ },
+ {
+  "id": "213105",
+  "label": "uncovering cellphone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "cellphone"
+  ]
+ },
+ {
+  "id": "123467",
+  "label": "putting car key on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "car key"
+  ]
+ },
+ {
+  "id": "139085",
+  "label": "pushing hair gum from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "hair gum"
+  ]
+ },
+ {
+  "id": "167192",
+  "label": "uncovering handy",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "handy"
+  ]
+ },
+ {
+  "id": "194342",
+  "label": "putting a lighter on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a lighter"
+  ]
+ },
+ {
+  "id": "218168",
+  "label": "uncovering onion",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "onion"
+  ]
+ },
+ {
+  "id": "59605",
+  "label": "uncovering spring",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "spring"
+  ]
+ },
+ {
+  "id": "17817",
+  "label": "putting a fidget spinner on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a fidget spinner"
+  ]
+ },
+ {
+  "id": "22699",
+  "label": "putting vase on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "vase"
+  ]
+ },
+ {
+  "id": "214289",
+  "label": "putting purple balloon pump on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "purple balloon pump"
+  ]
+ },
+ {
+  "id": "78197",
+  "label": "uncovering stone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "stone"
+  ]
+ },
+ {
+  "id": "119483",
+  "label": "uncovering a phone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a phone"
+  ]
+ },
+ {
+  "id": "125118",
+  "label": "uncovering a fork",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a fork"
+  ]
+ },
+ {
+  "id": "18353",
+  "label": "putting apple on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "apple"
+  ]
+ },
+ {
+  "id": "128381",
+  "label": "uncovering chalk",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "chalk"
+  ]
+ },
+ {
+  "id": "193859",
+  "label": "uncovering mobilephone",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "mobilephone"
+  ]
+ },
+ {
+  "id": "22001",
+  "label": "uncovering television remote",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "television remote"
+  ]
+ },
+ {
+  "id": "143197",
+  "label": "pushing spanner from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "spanner"
+  ]
+ },
+ {
+  "id": "145595",
+  "label": "putting hairbrush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "hairbrush"
+  ]
+ },
+ {
+  "id": "101323",
+  "label": "putting pen on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "pen"
+  ]
+ },
+ {
+  "id": "201629",
+  "label": "putting scissors on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "scissors"
+  ]
+ },
+ {
+  "id": "140292",
+  "label": "uncovering nail cutter",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "nail cutter"
+  ]
+ },
+ {
+  "id": "122012",
+  "label": "pushing ink bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "ink bottle"
+  ]
+ },
+ {
+  "id": "95277",
+  "label": "putting a vase on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a vase"
+  ]
+ },
+ {
+  "id": "180544",
+  "label": "uncovering pool",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "pool"
+  ]
+ },
+ {
+  "id": "49025",
+  "label": "pushing note pad from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "note pad"
+  ]
+ },
+ {
+  "id": "10888",
+  "label": "uncovering an apple",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "an apple"
+  ]
+ },
+ {
+  "id": "53473",
+  "label": "uncovering a ball",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a ball"
+  ]
+ },
+ {
+  "id": "206689",
+  "label": "putting nailpolish on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "nailpolish"
+  ]
+ },
+ {
+  "id": "208045",
+  "label": "putting a hair brush on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a hair brush"
+  ]
+ },
+ {
+  "id": "83949",
+  "label": "putting a pepper shaker on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "a pepper shaker"
+  ]
+ },
+ {
+  "id": "171871",
+  "label": "putting bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "bottle"
+  ]
+ },
+ {
+  "id": "161613",
+  "label": "putting perfume bottle on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "perfume bottle"
+  ]
+ },
+ {
+  "id": "187802",
+  "label": "pushing feeding bottle from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "feeding bottle"
+  ]
+ },
+ {
+  "id": "24489",
+  "label": "pushing flowers from left to right",
+  "template": "Pushing [something] from left to right",
+  "placeholders": [
+   "flowers"
+  ]
+ },
+ {
+  "id": "103594",
+  "label": "putting box on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "box"
+  ]
+ },
+ {
+  "id": "201542",
+  "label": "uncovering a red pencil",
+  "template": "Uncovering [something]",
+  "placeholders": [
+   "a red pencil"
+  ]
+ },
+ {
+  "id": "23324",
+  "label": "putting t-shirt packet on a surface",
+  "template": "Putting [something] on a surface",
+  "placeholders": [
+   "t-shirt packet"
+  ]
+ }
+]
