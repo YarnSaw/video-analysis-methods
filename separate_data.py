@@ -1,4 +1,4 @@
-import os, json, shutil, csv, re
+import os, json, shutil, csv, re, cv2
 
 
 def findIDsForTags(tags, fileName):
@@ -10,8 +10,10 @@ def findIDsForTags(tags, fileName):
   rows = []
   for label in labels:
       if label['template'] in tags:
-        ids.append(label['id'])
-        rows.append(label)
+        video = cv2.VideoCapture(f"20bn-something-something-v2/{label['id']}.webm")
+        if video.get(3) == 427 and video.get(4) == 240:
+          ids.append(label['id'])
+          rows.append(label)
 
   with open (f'subset-{fileName}', 'w+') as file:
     json.dump(rows, file, indent=1)
@@ -28,7 +30,7 @@ def copyIDsToNewDirectory(directory, ids):
 
 if __name__ == "__main__":
   tags = ['Pushing [something] from left to right', 'Putting [something] on a surface', 'Uncovering [something]']
-  direct = "subset"
+  direct = "subset2"
   file = 'train.json'
   ids = findIDsForTags(tags, file)
   copyIDsToNewDirectory(direct, ids)
