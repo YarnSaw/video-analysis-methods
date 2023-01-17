@@ -7,29 +7,28 @@ import torchvision.transforms as transforms
 import cv2
 import json
 
-# filling in empty frames util
+import numpy as np
+
+# need to pad videos so they are all the same length (in number of frames). Util function for that, and run it here (run it once then we don't need it again)
 from frames import leastmostframes
 # least, most = leastmostframes('subset2/data')
-most = 76 # hard coded for speed
-# emptyFrame = [[[0] for i in range(427)] for i in range(240)]
+most = 76 # hard coded for speed. The function only really needs to be run whenever we add new videos to our dataset.
 
 # TODO: move to some type of preprocessing file
 def processID(Id):
   global most
-  video = cv2.VideoCapture(f'subset2/{Id}.webm')
-  
+  video = cv2.VideoCapture(f'subset2/data/{Id}.webm')
   greyScaleVideo = []
 
   newFrame, data = video.read()
   while newFrame:
     greyScaleVideo.append(cv2.cvtColor(data, cv2.COLOR_BGR2GRAY))
     newFrame, data = video.read()
-
-  # Append black frames until we reach highest frame count
-  for i in range(most - len(greyScaleVideo)):
-    greyScaleVideo.append([[[0] for i in range(427)] for i in range(240)])
-
-  # print(len(greyScaleVideo)*len(greyScaleVideo[0])*len(greyScaleVideo[0][0])*len(greyScaleVideo[0][0][0]))
+  
+  # Appending additional frames of blackness 
+  numBlackFrames = most - len(greyScaleVideo)
+  greyScaleVideo = np.concatenate([greyScaleVideo, np.zeros((numBlackFrames, *greyScaleVideo[0].shape))])
+  
   return greyScaleVideo
 
 
