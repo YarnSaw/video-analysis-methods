@@ -35,10 +35,10 @@ def processID(Id):
   return greyScaleVideo
 
 
-with open('{dataDirectory}/subset-train.json') as file:
+with open(f'{dataDirectory}/subset-train.json') as file:
   trainingSetInfo = json.load(file)
 
-with open('{dataDirectory}/subset-validation.json') as file:
+with open(f'{dataDirectory}/subset-validation.json') as file:
   validationSetInfo = json.load(file)
 
 
