@@ -14,10 +14,13 @@ from frames import leastmostframes
 # least, most = leastmostframes('subset2/data')
 most = 76 # hard coded for speed. The function only really needs to be run whenever we add new videos to our dataset.
 
+# directory to load data to train on
+dataDirectory = "subset2"
+
 # TODO: move to some type of preprocessing file
 def processID(Id):
   global most
-  video = cv2.VideoCapture(f'subset2/data/{Id}.webm')
+  video = cv2.VideoCapture(f'{dataDirectory}/data/{Id}.webm')
   greyScaleVideo = []
 
   newFrame, data = video.read()
@@ -32,10 +35,10 @@ def processID(Id):
   return greyScaleVideo
 
 
-with open('subset2/subset-train.json') as file:
+with open('{dataDirectory}/subset-train.json') as file:
   trainingSetInfo = json.load(file)
 
-with open('subset2/subset-validation.json') as file:
+with open('{dataDirectory}/subset-validation.json') as file:
   validationSetInfo = json.load(file)
 
 
