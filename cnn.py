@@ -25,7 +25,7 @@ def processID(Id):
 
   newFrame, data = video.read()
   while newFrame:
-    greyScaleVideo.append(cv2.cvtColor(data, cv2.COLOR_BGR2GRAY))
+    greyScaleVideo.append(data) # NOTE: no longer greyscale
     newFrame, data = video.read()
   
   # Appending additional frames of blackness 
@@ -41,6 +41,13 @@ with open(f'{dataDirectory}/subset-train.json') as file:
 with open(f'{dataDirectory}/subset-validation.json') as file:
   validationSetInfo = json.load(file)
 
+classes = []
+for element in trainingSetInfo:
+  if element['template'] not in classes:
+    classes.append(element['template'])
+
+import pdb
+pdb.set_trace()
 
 class somethingDataset(data.Dataset):
   def __init__(self, setInfo):
@@ -53,19 +60,22 @@ class somethingDataset(data.Dataset):
     vid = self.setInfo[index]
     video = processID(vid['id'])
     label = vid['template']
+    index = classes.index(label)
+    label = np.zeros((len(classes)))
+    label[index] = 1
     return video, label
 
 
-trainDataLoader = data.DataLoader(somethingDataset(trainingSetInfo), batch_size=64, shuffle=True, num_workers=0)
+trainDataLoader = data.DataLoader(somethingDataset(trainingSetInfo), batch_size=1, shuffle=True, num_workers=0)
 validationDataLoader = data.DataLoader(somethingDataset(validationSetInfo), batch_size=64, shuffle=True)
 
 class CNN(nn.Module):
   def __init__(self):
     super().__init__()
     #                      greyscale (3 for rgb)   num filters
-    self.conv1 = nn.Conv3d(in_channels=1,          out_channels=5, kernel_size=(5,5,5))
+    self.conv1 = nn.Conv3d(in_channels=76,          out_channels=5, kernel_size=(5,5,3))
     self.relu1 = nn.ReLU()
-    self.maxpool1 = nn.MaxPool3d(kernel_size=(2,2), stride=(2,2))
+    self.maxpool1 = nn.MaxPool3d(kernel_size=(2,2,2), stride=(2,2,2))
 
     self.fc1 = nn.Linear(in_features=800, out_features=500)
     self.relu3 = nn.ReLU()
@@ -94,6 +104,8 @@ class CNN(nn.Module):
 device = 'cpu' # or 'cuda' in future
 model = CNN().to(device)
 
+model = model.float()
+
 EPOCHS = 1
 LEARNING_RATE = 0.001
 loss = nn.CrossEntropyLoss()
@@ -103,10 +115,18 @@ train_loss_list = []
 
 for epoch in range(EPOCHS):
   train_loss = 0
-  model.train()
-  for (x,y) in trainDataLoader:
-    import pdb
-    pdb.set_trace()
+
+  model.train(True)
+  for (x,y) in trainDataLoader: # x variable represents input data and y represents corresponding output 
+    x = x.to(device)  # Moves input and output to specified device
+    # import pdb
+    # pdb.set_trace()
+    optimizer.zero_grad()              # Sets the models gradients to zero for each iteration so previous doesnt affect current
+    y_pred = model(x.float())                  # COmputes models predicted output for input data
+    loss = loss_fn(y_pred, y)          # Computes loss between predicted output and true output
+    loss.backward()                    # cOMPUTES GRADIENT
+    optimizer.step()                   # Updates models parameters
+
 
 
 
